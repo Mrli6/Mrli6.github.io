@@ -2,7 +2,7 @@
 
 ### C语言入门
 
-[Link](url)
+[Link](https://github.com/Mrli6/The-introduction-to-C)
 
 ### C语言进阶
 
