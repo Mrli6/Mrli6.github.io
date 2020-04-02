@@ -1,20 +1,40 @@
                                                 你好，这是我的技术博客。
 
-### C语言入门
 
-[Link](https://github.com/Mrli6/The-introduction-to-C)
+### C
 
-### C语言进阶
+[入门](https://github.com/Mrli6/The-introduction-to-C)
 
-[Link](url)
+[进阶](url)
 
-### Python入门
 
-[Link](url)
+### Python
 
-### Python进阶
+[入门](url)
 
-[Link](url)
+[进阶](url)
+
+
+### C++
+
+[入门](url)
+
+[进阶](url)
+
+
+### Java
+
+[入门](url)
+
+[进阶](url)
+
+
+### JavaScript
+
+[入门](url)
+
+[进阶](url)
+
 
 - Bulleted
 - List
