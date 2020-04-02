@@ -1,20 +1,16 @@
-## Welcome to GitHub Pages
+###你好，这是我的技术博客。
 
-You can use the [editor on GitHub](https://github.com/Mrli6/Mrli6.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### C语言入门
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+hello,world
 
-### Markdown
+### C语言进阶
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+hello,world
 
-```markdown
-Syntax highlighted code block
+### Python入门
 
-# Header 1
-陆宇婷小老婆，在干嘛呀？
-## Header 2
-### Header 3
+### Python进阶
 
 - Bulleted
 - List
