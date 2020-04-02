@@ -3,7 +3,7 @@
 
 ### C
 
-[入门](https://github.com/Mrli6/The-introduction-to-C)
+[入门]( https://mrli6.github.io/The-introduction-to-C/)
 
 [进阶](url)
 
