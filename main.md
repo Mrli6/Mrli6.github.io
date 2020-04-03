@@ -1,28 +1,28 @@
 你好，这是我的技术博客。
 
 
-### C
+# C
 
 [入门]( https://mrli6.github.io/The-introduction-to-C/)
 
 [进阶](url)
 
 
-### Python
+# Python
 
 [入门](url)
 
 [进阶](url)
 
 
-### C++
+# C++
 
 [入门](url)
 
 [进阶](url)
 
 
-### Java
+## Java
 
 [入门](url)
 
