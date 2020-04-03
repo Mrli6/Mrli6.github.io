@@ -3,37 +3,37 @@
 
 # C
 
-[入门]( https://mrli6.github.io/The-introduction-to-C/"悬停显示")
+[基础知识]( https://mrli6.github.io/The-introduction-to-C/"悬停显示")
 
-[进阶](url)
+[项目](url)
 
 
 # Python
 
-[入门](url)
+[基础知识](url)
 
-[进阶](url)
+[项目](url)
 
 
 # C++
 
-[入门](url)
+[基础知识](url)
 
-[进阶](url)
+[项目](url)
 
 
 # Java
 
-[入门](url)
+[基础知识](url)
 
-[进阶](url)
+[项目](url)
 
 
 # JavaScript
 
-[入门](url)
+[基础知识](url)
 
-[进阶](url)
+[项目](url)
 
 
 - Bulleted
