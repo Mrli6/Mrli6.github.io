@@ -1,9 +1,9 @@
-你好，这是我的技术博客。
+    你好，这是我的技术博客。
 
 
 # C
 
-[入门]( https://mrli6.github.io/The-introduction-to-C/)
+[入门]( https://mrli6.github.io/The-introduction-to-C/"悬停显示")
 
 [进阶](url)
 
@@ -22,14 +22,14 @@
 [进阶](url)
 
 
-## Java
+# Java
 
 [入门](url)
 
 [进阶](url)
 
 
-### JavaScript
+# JavaScript
 
 [入门](url)
 
