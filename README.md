@@ -10,7 +10,7 @@
 
 # Python
 
-[基础知识](url)
+[基础知识]( https://mrli6.github.io/The-introducition-to-python/)
 
 [项目](url)
 
