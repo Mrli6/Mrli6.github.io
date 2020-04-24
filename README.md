@@ -5,7 +5,7 @@
 
 [基础知识]( https://mrli6.github.io/The-introduction-to-C/)
 
-[项目](url)
+[题目代码启发](https://mrli6.github.io/The-inspiration/)
 
 
 # Python
